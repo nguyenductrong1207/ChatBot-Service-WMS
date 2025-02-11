@@ -1,13 +1,12 @@
 
 import './App.css'
+import MyChatBot from './components/ChatBot'
 
 function App() {
 
   return (
     <>
-      <p >
-        Hi
-      </p>
+      <MyChatBot/>
     </>
   )
 }
